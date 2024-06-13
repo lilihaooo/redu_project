@@ -1,0 +1,25 @@
+server:
+    host: 127.0.0.1
+    port: 9999
+    env: dev
+mysql:
+    host: 47.109.31.106
+    port: 3306
+    username: root
+    password: a111111
+    db: redu
+    log_level: Info
+    log_path: log/gorm.log
+redis:
+    addr: 47.109.31.106:6379
+    password: a111111
+    db: 2
+es:
+    host: http://47.109.31.106
+    port: 9200
+logger:
+    show_pass_line: true
+jwt:
+    secret: your_secret_key
+    expires: 6000
+    issuer: your_app_name

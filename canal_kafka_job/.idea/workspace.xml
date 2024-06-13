@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03c9219e-7864-40e0-b24a-6c94f74babe4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/core/kafka.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/core/logrus.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/global/enter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/job/init_topic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/job/work.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_kafka_job/massage/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/api/v1/seckill/create_seckill_activity.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/api/v1/seckill/enter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/api/v2/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/middleware/request_cost.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/model/base.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/model/category.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/model/seckill.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/request/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/request/seckill.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/router/seckill.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/service/seckill/create_seckill_activity.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/service/seckill/enter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/util/func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redu/util/zh_validate.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../../" />
+      </list>
+    </option>
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hdp2vlnmBXEvyMIi9CgSyDuOl5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/86132"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io,direct" />
+      </map>
+    </environment>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
